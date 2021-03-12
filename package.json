@@ -2,7 +2,7 @@
   "name": "book-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sydhsn/bookstore#readme",
+  "homepage": "https://sydhsn.github.io/bookstore/",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "react": "^17.0.1",
