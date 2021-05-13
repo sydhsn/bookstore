@@ -7,7 +7,7 @@ function App() {
   const [books, setBook] = useState([]);
 
   const loadBooks = () => {
-    fetch('books.json',
+    fetch(`${process.env.PUBLIC_URL}/books.json`,
       {
         headers: {
           'Content-Type': 'application/json',
